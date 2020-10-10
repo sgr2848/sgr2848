@@ -5,7 +5,7 @@
 
 -   Currently, a student at Brooklyn College.
 -   Working on various personal projects
--   Primarily working on and also learning backend and data engineering.
+-   Primarily working on and also learning backend and data gathering.
 -   Other stuff :: I make weird music in my free time <img src="https://media.giphy.com/media/MXX2jE0MChtYl1AgBe/source.gif" width="30" height="30" frameBorder="0" class="giphy-embed" allowFullScreen/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgr2848&layout=compact&hide_border=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
