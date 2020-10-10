@@ -3,7 +3,7 @@
 
 #   I'm Sagar!
 
--   Currently I'm a student at Brooklyn College.
+-   Currently, a student at Brooklyn College.
 -   Working on various personal projects
 -   Primarily working on and also learning backend and data engineering.
 -   Other stuff :: I make weird music in my free time <img src="https://media.giphy.com/media/MXX2jE0MChtYl1AgBe/source.gif" width="30" height="30" frameBorder="0" class="giphy-embed" allowFullScreen/>
