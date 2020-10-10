@@ -1,9 +1,9 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Hellothere.gif" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://github-readme-stats.vercel.app/api?username=sgr2848&show_icons=true&theme=synthwave&hide=stars" align="right"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Hellothere.gif" width="300" height="140" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 #   I'm Sagar!
 
 > Currently I'm a student at Brooklyn College.
-
 
 
 <h3 align="center">
@@ -37,4 +37,3 @@
   </a>
 
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=sgr2848&show_icons=true&theme=synthwave&hide=stars" align="right"/>
