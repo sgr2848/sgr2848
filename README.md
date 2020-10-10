@@ -4,16 +4,6 @@
 #   I'm Sagar!
 
 > Currently I'm a student at Brooklyn College.
-
-
-<h3 align="center">
-    Click the icons below to connect with me!
-</h3>
-
-<p align="center">
-    <a href="https://orgdev.herokuapp.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain-name.png"/></a>
-    <a href="https://www.linkedin.com/in/sagr2848/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgr2848&layout=compact&hide_border=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
@@ -37,3 +27,10 @@
   </a>
 
 </p>
+<h3 align="center">
+    Click the icons below to connect with me!
+</h3>
+
+<p align="center">
+    <a href="https://orgdev.herokuapp.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain-name.png"/></a>
+    <a href="https://www.linkedin.com/in/sagr2848/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
