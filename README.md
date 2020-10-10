@@ -6,7 +6,7 @@
 -   Currently I'm a student at Brooklyn College.
 -   Working on various personal projects
 -   Primarily working on and also learning backend and data engineering.
--   Other stuff :: I make weird music in my free time <img src="https://media.giphy.com/media/3o8dpcngQ7e70RJMiY/source.gif" width="30" height="30" frameBorder="0" class="giphy-embed" allowFullScreen/>
+-   Other stuff :: I make weird music in my free time <img src="https://media.giphy.com/media/MXX2jE0MChtYl1AgBe/source.gif" width="30" height="30" frameBorder="0" class="giphy-embed" allowFullScreen/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgr2848&layout=compact&hide_border=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 >I use the following languages on my every day works (*click to see my work!*):
