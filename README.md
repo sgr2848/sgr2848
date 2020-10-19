@@ -1,5 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sgr2848&show_icons=true&theme=synthwave&hide=stars&hide_rank=true" align="right"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Hellothere.gif" width="400" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Hellothere.gif" width="300" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 #   I'm Sagar!
 
