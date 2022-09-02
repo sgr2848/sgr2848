@@ -4,7 +4,7 @@
 #   I'm Sagar!
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sgr2848)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C773%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C776%20hrs%2024%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,5 +21,5 @@ Rust                     1 hr 13 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/09/2022 05:33:32 UTC
+ Last Updated on 02/09/2022 05:47:17 UTC
 <!--END_SECTION:waka-->
