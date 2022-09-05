@@ -4,8 +4,8 @@
 #   I'm Sagar!
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sgr2848)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C787%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 
- Last Updated on 04/09/2022 05:14:09 UTC
+ Last Updated on 05/09/2022 05:46:18 UTC
 <!--END_SECTION:waka-->
