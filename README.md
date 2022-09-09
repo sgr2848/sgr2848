@@ -4,7 +4,7 @@
 #   I'm Sagar!
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sgr2848)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C793%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C796%20hrs%2048%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,5 +21,5 @@ Python                   51 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 08/09/2022 05:42:06 UTC
+ Last Updated on 09/09/2022 05:36:25 UTC
 <!--END_SECTION:waka-->
