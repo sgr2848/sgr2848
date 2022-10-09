@@ -4,7 +4,7 @@
 #   I'm Sagar!
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sgr2848)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C885%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C887%20hrs%2043%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -12,14 +12,11 @@
 ⌚︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-JavaScript               3 hrs 48 mins       ██████████████████░░░░░░░   75.21% 
-Python                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
-CSS                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.24% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+JavaScript               3 hrs 43 mins       ██████████████████████░░░   87.78% 
+CSS                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22%
 
 ```
 
 
- Last Updated on 08/10/2022 05:03:30 UTC
+ Last Updated on 09/10/2022 05:15:39 UTC
 <!--END_SECTION:waka-->
